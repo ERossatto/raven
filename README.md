@@ -1,6 +1,6 @@
 # Raven
 
-# Please instal the project: npm install
+# Please install the project: npm install
 
 # To test it: npm run test
 
