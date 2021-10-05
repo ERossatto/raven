@@ -2,7 +2,7 @@
 
 # Please instal the project: npm install
 
-# To give a look please: npm run test
+# To test it: npm run test
 
 # Original problem text:
   Here is part of an application that creates a file tree data structure from a JSON input. However, there are one or more bugs in this code.
