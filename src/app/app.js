@@ -133,23 +133,12 @@ var FileTree = function() {
 };
 
 /**
- * Return sorted input list by id.
- *
- * @param {array} node
- * @returns {array} the node list sorted by id.
- */
-function sortNodes(nodeList) {
-  return nodeList.sort((a, b) => (a.id - b.id));
-}
-
-/**
  * Creates a file tree.
  *
  * @param {object} input
  * @returns {object} the FileTree instance.
  */
 function createFileTree(input) {
-  sortNodes(input);
   var fileTree = new FileTree();
   for (var it=0; it<input.length; it++) {
     var inputNode = input[it];
