@@ -1,10 +1,10 @@
 # raven
 
-Please instal the project: npm install
+# Please instal the project: npm install
 
-To give a look please: npm run test
+# To give a look please: npm run test
 
-Original problem text:
+# Original problem text:
   Here is part of an application that creates a file tree data structure from a JSON input. However, there are one or more bugs in this code.
 
   It seems that for some data sets this code creates an incorrect file tree structure.
@@ -15,7 +15,7 @@ Original problem text:
 
   Good luck!
 
-About the solution:
+# About the solution:
   I uploaded the exact code with the bug from the main branch.
   if you run the tests on the main branch 2 errors will appear
 
