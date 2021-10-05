@@ -1,8 +1,8 @@
 # Raven
 
-# Please install the project: npm install
+# Please install the project: `npm install`
 
-# To test it: npm run test
+# To test it: `npm run test`
 
 # Original problem text:
   Here is part of an application that creates a file tree data structure from a JSON input. However, there are one or more bugs in this code.
